@@ -162,7 +162,7 @@ h2{
     justify-content: space-around;
     padding-top:100px;
     padding-left: 90px;
-    background: url('imbgindex.jpg');
+    background: url('./img/imbgindex.jpg');
    height: 100vh;
 }
 .gif img{
